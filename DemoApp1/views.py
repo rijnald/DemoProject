@@ -20,7 +20,7 @@ def f2(request):
     ss = '''
     
         <center>
-            <h1> hello from demoapp1 f2() </h1>
+            <h1> ****hello from demoapp1 f2()**** </h1>
         </center>
     
     '''
