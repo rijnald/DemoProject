@@ -8,7 +8,7 @@ def f1(request):
     ss = '''
     
         <center>
-            <h1> hello from demoapp1 f1() </h1>
+            <h1> ***hello from demoapp1 f1()*** </h1>
         </center>
     
     '''
